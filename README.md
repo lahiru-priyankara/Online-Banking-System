@@ -42,7 +42,6 @@ The platform ensures **security, scalability, and transparency**, making it a de
 - Automated interest calculation for savings accounts  
 
 ### Non-Functional:
-- **Security:** Password encryption (bcrypt/SHA256), role-based access control  
 - **Performance:** Fast transaction processing  
 - **Scalability:** Support for increasing users and transactions  
 - **Availability:** 24/7 system uptime
